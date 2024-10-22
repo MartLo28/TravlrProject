@@ -1,4 +1,4 @@
-# Project Reflection - Full Stack Web App
+# Project Reflection
 
 ## Project Overview
 In this project, I made a web app that works for both customers and admins. At the end, I added a way for the admin to log in safely. This README explains how the app works and what I learned while making it.
