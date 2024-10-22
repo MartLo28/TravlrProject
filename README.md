@@ -8,7 +8,7 @@ I used a few tools to build the front of the app. These tools include Express HT
 
 The back of the app uses a NoSQL database called MongoDB. This kind of database is good because it can store lots of different kinds of data without needing to follow a strict set of rules.
 
-## How It All Connects
+## How It Connects
 JavaScript and JSON are a little different. JavaScript is a language that makes websites interactive. JSON is a way to organize and share data. It helps the front part of the app and the back part of the app talk to each other.
 
 While building the app, I changed some of my code to make it better. This is called refactoring. I also reused some design parts, like buttons or forms, so I did not have to make them from scratch every time. This made the app easier to update and quicker to build.
